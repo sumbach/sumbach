@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello! 👋
+
+Looking for Sam Umbach? Find me at 👉 [@samumbach](https://github.com/samumbach/) 👈
 
 <!--
 **sumbach/sumbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
